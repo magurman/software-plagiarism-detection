@@ -93,4 +93,3 @@ Here you should see be prompted to ask if its okay to start the server on port 3
 The home page will be the point of submission. please hover over any of the inputs that might not be clear for further explination.
 
 **Troubleshooting:** if for some reason you cannot get the server to run on port 3000 but you can get it to run on another port you can edit the url for api endpoint in the front end. to do this navigate to 'das-yarn/src/services/SubmissionService.ts' you can then edit the paramter 'url' to match the port you are able to run the server on.
-This is a React-Typescript application for comparing software projects for plagiarism or similarity. This was a semester long project in my Foundations of Software Engineering course.
