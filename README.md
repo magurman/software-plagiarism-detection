@@ -4,7 +4,7 @@
 
  
 ### Introduction
- This was a semester long project in my Foundations of Software Engineering course. This was a group project where I had the pleasure of working with Mathew Gurman and Amanda Dupell. The simple goal of this project was to build a plagiarism detection tool for comparing code based projects. 
+ This was a semester long project in my Foundations of Software Engineering course. This was a group project where I had the pleasure of working with Brian Ward and Amanda Dupell. The simple goal of this project was to build a plagiarism detection tool for comparing code based projects. 
 
 **Language Used:** Typescript
 **Tools Used:** Front End : [React-Typescript, Ant Design, Bootstrap], Back End : [NodeJs, ExpressJS]
